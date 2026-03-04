@@ -9,13 +9,13 @@ Tested on: Ubuntu 24 (WSL), OpenJDK 21. Java 11+ recommended.
 From the repo root (where `pages.txt` is):
 
 ```bash
-javac -encoding UTF-8 -d . $(find src -name "*.java")
+javac -encoding UTF-8 -d . *.java
 java -cp . project.Main
 ```
 
 On Windows:
 ```
-javac -encoding UTF-8 -d . src\project\*.java
+javac -encoding UTF-8 -d . *.java
 java -cp . project.Main
 ```
 
