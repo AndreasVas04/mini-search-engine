@@ -1,0 +1,45 @@
+www.cs.ucy.ac.cy 3 2
+computer, science, university
+www.cs.ucy.ac.cy/research, www.cs.ucy.ac.cy/education
+www.cs.ucy.ac.cy/research 4 0
+artificial, intelligence, machine, learning
+www.cs.ucy.ac.cy/education 2 1
+courses, teaching
+www.cs.ucy.ac.cy/courses
+www.cs.ucy.ac.cy/courses 5 4
+programming, algorithms, data, structures, networks
+www.cs.ucy.ac.cy/programming, www.cs.ucy.ac.cy/networks, www.cs.ucy.ac.cy/theory, www.cs.ucy.ac.cy/database
+www.cs.ucy.ac.cy/programming 3 1
+coding, java, python
+www.cs.ucy.ac.cy/courses
+www.cs.ucy.ac.cy/networks 3 2
+internet, security, protocols
+www.cs.ucy.ac.cy/security, www.cs.ucy.ac.cy/courses
+www.cs.ucy.ac.cy/security 2 1
+encryption, privacy
+www.cs.ucy.ac.cy/cybersecurity
+www.cs.ucy.ac.cy/cybersecurity 3 0
+malware, hacking, protection
+www.cs.ucy.ac.cy/ai-lab 4 0
+artificial, intelligence, robotics, automation
+www.cs.ucy.ac.cy/database 3 1
+data, sql, management
+www.cs.ucy.ac.cy/courses
+www.cs.ucy.ac.cy/datamining 2 0
+data, analysis
+www.cs.ucy.ac.cy/software 3 1
+engineering, development, testing
+www.cs.ucy.ac.cy/devops
+www.cs.ucy.ac.cy/devops 3 0
+continuous, integration, deployment
+www.cs.ucy.ac.cy/theory 2 2
+computational, models
+www.cs.ucy.ac.cy/logic, www.cs.ucy.ac.cy/courses
+www.cs.ucy.ac.cy/logic 2 0
+reasoning, proofs
+pageA.com 3 0
+apple, banana, orange
+pageB.com 2 0
+banana, orange
+pageC.com 2 0
+apple, grape

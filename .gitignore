@@ -1,0 +1,20 @@
+# Compiled Java files
+*.class
+
+# Runtime output
+shortestPaths.txt
+
+# If you compile with `javac -d .`, package output folder
+project/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
